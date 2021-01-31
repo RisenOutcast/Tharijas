@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 5181eb0570bae6146b6ffc1d4ed58096
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Niska_1
+    100002: Niska_2
+    100004: Oikee_Etujalka_1
+    100006: Oikee_Etujalka_2
+    100008: Oikee_Etujalka_3
+    100010: Oikee_Etujalka_4
+    100012: Oikee_Takajalka_1
+    100014: Oikee_Takajalka_2
+    100016: Oikee_Takajalka_3
+    100018: Oikee_Takajalka_4
+    100020: OikeeEtujalka
+    100022: OikeeTakajalka
+    100024: "P\xE4\xE4_1"
+    100026: "P\xE4\xE4_2"
+    100028: "Selk\xE4_1"
+    100030: "Selk\xE4_10"
+    100032: "Selk\xE4_2"
+    100034: "Selk\xE4_3"
+    100036: "Selk\xE4_4"
+    100038: "Selk\xE4_5"
+    100040: "Selk\xE4_6"
+    100042: "Selk\xE4_7"
+    100044: "Selk\xE4_8"
+    100046: "Selk\xE4_9"
+    100048: Tygo
+    100050: //RootNode
+    100052: Vasen_Etujalka_1
+    100054: Vasen_Etujalka_2
+    100056: Vasen_Etujalka_3
+    100058: Vasen_Etujalka_4
+    100060: Vasen_Takajalka_1
+    100062: Vasen_Takajalka_2
+    100064: Vasen_Takajalka_3
+    100066: Vasen_Takajalka_4
+    100068: VasenEtujalka
+    100070: VasenTakajalka
+    400000: Niska_1
+    400002: Niska_2
+    400004: Oikee_Etujalka_1
+    400006: Oikee_Etujalka_2
+    400008: Oikee_Etujalka_3
+    400010: Oikee_Etujalka_4
+    400012: Oikee_Takajalka_1
+    400014: Oikee_Takajalka_2
+    400016: Oikee_Takajalka_3
+    400018: Oikee_Takajalka_4
+    400020: OikeeEtujalka
+    400022: OikeeTakajalka
+    400024: "P\xE4\xE4_1"
+    400026: "P\xE4\xE4_2"
+    400028: "Selk\xE4_1"
+    400030: "Selk\xE4_10"
+    400032: "Selk\xE4_2"
+    400034: "Selk\xE4_3"
+    400036: "Selk\xE4_4"
+    400038: "Selk\xE4_5"
+    400040: "Selk\xE4_6"
+    400042: "Selk\xE4_7"
+    400044: "Selk\xE4_8"
+    400046: "Selk\xE4_9"
+    400048: Tygo
+    400050: //RootNode
+    400052: Vasen_Etujalka_1
+    400054: Vasen_Etujalka_2
+    400056: Vasen_Etujalka_3
+    400058: Vasen_Etujalka_4
+    400060: Vasen_Takajalka_1
+    400062: Vasen_Takajalka_2
+    400064: Vasen_Takajalka_3
+    400066: Vasen_Takajalka_4
+    400068: VasenEtujalka
+    400070: VasenTakajalka
+    2100000: lambert5
+    4300000: Tygo
+    7400000: TygoIdle
+    9500000: //RootNode
+    13700000: Tygo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TygoIdle
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

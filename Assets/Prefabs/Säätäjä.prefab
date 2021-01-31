@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1732279757906858}
+  m_IsPrefabParent: 1
+--- !u!1 &1732279757906858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4973816293813696}
+  - component: {fileID: 114965470446391690}
+  - component: {fileID: 114683500896350984}
+  m_Layer: 0
+  m_Name: "S\xE4\xE4t\xE4j\xE4"
+  m_TagString: Switch
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4973816293813696
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1732279757906858}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 156.88866, y: 877.9787, z: 123.26813}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114683500896350984
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1732279757906858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a2c4c44efcca9418ca3833d9658d3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  D1CardID1: 0
+  D1CardID2: 0
+  D1CardID3: 0
+  D1CardID4: 0
+  D1CardID5: 0
+  D1CardID6: 0
+  D1CardID7: 0
+  D1CardID8: 0
+  D1CardID9: 0
+  D1CardID10: 0
+  D1CardID11: 0
+  D1CardID12: 0
+  D1CardID13: 0
+  D1CardID14: 0
+  D1CardID15: 0
+  D1CardID16: 0
+  D1CardID17: 0
+  D1CardID18: 0
+  D1CardID19: 0
+  D1CardID20: 0
+  D1CardID21: 0
+  D1CardID22: 0
+  D1CardID23: 0
+  D1CardID24: 0
+  D2CardID1: 0
+  D2CardID2: 0
+  D2CardID3: 0
+  D2CardID4: 0
+  D2CardID5: 0
+  D2CardID6: 0
+  D2CardID7: 0
+  D2CardID8: 0
+  D2CardID9: 0
+  D2CardID10: 0
+  D2CardID11: 0
+  D2CardID12: 0
+  D2CardID13: 0
+  D2CardID14: 0
+  D2CardID15: 0
+  D2CardID16: 0
+  D2CardID17: 0
+  D2CardID18: 0
+  D2CardID19: 0
+  D2CardID20: 0
+  D2CardID21: 0
+  D2CardID22: 0
+  D2CardID23: 0
+  D2CardID24: 0
+--- !u!114 &114965470446391690
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1732279757906858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2e74cebdc992c1478c4ccceb1ddd88e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Testikortti: {fileID: 0}
+  PlayerName: 
+  PlayerLevel: 0
+  PlayerXP: 0
+  PlayerGamesPlayed: 0
+  PlayerWins: 1
+  PlayerLosses: 1
+  PlayerIconID: 0
+  ChosenMonster: 0
+  AngiraLevel: 0
+  AngiraXP: 0
+  CardID1: 0
+  CardID2: 0
+  CardID3: 0
+  CardID4: 0
+  CardID5: 0
+  CardID6: 0
+  CardID7: 0
+  CardID8: 0
+  CardID9: 0
+  CardID10: 0
+  CardID11: 0
+  CardID12: 0
+  CardID13: 0
+  CardID14: 0
+  CardID15: 0
+  CardID16: 0
+  CardID17: 0
+  CardID18: 0
+  CardID19: 0
+  CardID20: 0
+  CardID21: 0
+  CardID22: 0
+  CardID23: 0
+  CardID24: 0
+  Card1: {fileID: 0}
+  Card2: {fileID: 0}
+  Card3: {fileID: 0}
+  Card4: {fileID: 0}
+  Card5: {fileID: 0}
+  Card6: {fileID: 0}

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7691abc661920b4da3f95d82e1acfed, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  username: Enemy
+  playerColor: {r: 1, g: 0.6784314, b: 0, a: 1}
+  Grontto: 1
+  Angira: 0
+  startingDeck:
+  - Silver Dagger
+  - Forgotten Sword
+  - Recurve Bow
+  - Flogdraki Axe
+  - Cavalry
+  - Glacia Axe
+  - Advanced Bow
+  - "\xC5ls Elixir"
+  - Pegasus Sword
+  - Everlit
+  - Advanced Bow
+  - Cavalry
+  - Deal With Death
+  - Spirit Essence
+  - Cavalry
+  - Cavalry
+  - Cavalry
+  - Cutting Axe
+  - Phasintoenix
+  - Phasintoenix
+  - Tygortilia
+  - Tygortilia
+  - Abaslos
+  - Abaslos
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  - Silver Dagger
+  coinsPerTurn: 10
+  goldDroppedThisTurn: 0
+  Kulta: 10
+  isHumanPlayer: 0
+  AmountCardsLeft: 12
+  "k\xE4silogiikka": {fileID: 11400000, guid: 0d41288df7572bb4094637219e293eb0, type: 2}
+  "p\xF6yt\xE4logiikka": {fileID: 11400000, guid: 264eebfe8350944468561c76afd2adb4,
+    type: 2}
+  hasActiveMinions: 1
+  PhasAmount: 0
+  AbasAmount: 0
+  TygoAmount: 4
+  Minion1Health: 90
+  Minion2Health: 102
+  Minion3Health: 102
+  Minion4Health: 102
+  ResetCardTurn: 0
+  TakingDamage: 0
+  MonsterName: Grontto
+  MonsterHealth: 0
+  MonsterAttack: 1095
+  MonsterDefence: 350
+  MonsterArmor: 320
+  MonsterImpact: 400
+  MonsterPierce: 150
+  MonsterBleed: 0
+  MonsterMaxHealth: 4600

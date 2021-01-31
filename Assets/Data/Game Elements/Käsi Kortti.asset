@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bf14b837c3bfae459699f7d45695e0b, type: 3}
+  m_Name: "K\xE4si Kortti"
+  m_EditorClassIdentifier: 
+  onNykyinenKortti: {fileID: 11400000, guid: 94dd57bfbfbebfc448bd6fe620d427b7, type: 2}
+  currentCard: {fileID: 11400000, guid: 30f02ce30fd3526438563e94fd091e6c, type: 2}
+  holdingCard: {fileID: 11400000, guid: 9293ec0f7075c714da443fbd2dee331e, type: 2}

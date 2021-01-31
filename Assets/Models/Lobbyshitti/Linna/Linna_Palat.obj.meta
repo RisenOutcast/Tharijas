@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 075c3072e64f6b948a8ae8e46649c5bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: textureEditorIsolateSelectSet_Wall_Tower
+    100004: textureEditorIsolateSelectSet_Wall_TowerBody
+    100006: Wall_CornerPiece1
+    100008: Wall_CornerPiece2
+    100010: Wall_CornerPieceBody3
+    100012: Wall_CornerPieceRoof4
+    100014: Wall_Gate
+    100016: Wall_GateBody1
+    100018: Wall_GateRoof2
+    100020: Wall_Piece1
+    100022: Wall_Piece2
+    100024: Wall_PieceBody3
+    100026: Wall_PieceRoof4
+    100028: Wall_Tower
+    100030: Wall_TowerBody
+    100032: Wall_TowerRoof
+    400000: //RootNode
+    400002: textureEditorIsolateSelectSet_Wall_Tower
+    400004: textureEditorIsolateSelectSet_Wall_TowerBody
+    400006: Wall_CornerPiece1
+    400008: Wall_CornerPiece2
+    400010: Wall_CornerPieceBody3
+    400012: Wall_CornerPieceRoof4
+    400014: Wall_Gate
+    400016: Wall_GateBody1
+    400018: Wall_GateRoof2
+    400020: Wall_Piece1
+    400022: Wall_Piece2
+    400024: Wall_PieceBody3
+    400026: Wall_PieceRoof4
+    400028: Wall_Tower
+    400030: Wall_TowerBody
+    400032: Wall_TowerRoof
+    2100000: textureEditorIsolateSelectSet_Wall_TowerMat
+    2100002: textureEditorIsolateSelectSet_Wall_TowerBodyMat
+    2100004: Wall_CornerPiece1Mat
+    2100006: Wall_CornerPiece2Mat
+    2100008: Wall_CornerPieceBody3Mat
+    2100010: Wall_CornerPieceRoof4Mat
+    2100012: Wall_GateMat
+    2100014: Wall_GateBody1Mat
+    2100016: Wall_GateRoof2Mat
+    2100018: Wall_Piece1Mat
+    2100020: Wall_Piece2Mat
+    2100022: Wall_PieceBody3Mat
+    2100024: Wall_PieceRoof4Mat
+    2100026: Wall_TowerMat
+    2100028: Wall_TowerBodyMat
+    2100030: Wall_TowerRoofMat
+    2300000: textureEditorIsolateSelectSet_Wall_Tower
+    2300002: textureEditorIsolateSelectSet_Wall_TowerBody
+    2300004: Wall_CornerPiece1
+    2300006: Wall_CornerPiece2
+    2300008: Wall_CornerPieceBody3
+    2300010: Wall_CornerPieceRoof4
+    2300012: Wall_Gate
+    2300014: Wall_GateBody1
+    2300016: Wall_GateRoof2
+    2300018: Wall_Piece1
+    2300020: Wall_Piece2
+    2300022: Wall_PieceBody3
+    2300024: Wall_PieceRoof4
+    2300026: Wall_Tower
+    2300028: Wall_TowerBody
+    2300030: Wall_TowerRoof
+    3300000: textureEditorIsolateSelectSet_Wall_Tower
+    3300002: textureEditorIsolateSelectSet_Wall_TowerBody
+    3300004: Wall_CornerPiece1
+    3300006: Wall_CornerPiece2
+    3300008: Wall_CornerPieceBody3
+    3300010: Wall_CornerPieceRoof4
+    3300012: Wall_Gate
+    3300014: Wall_GateBody1
+    3300016: Wall_GateRoof2
+    3300018: Wall_Piece1
+    3300020: Wall_Piece2
+    3300022: Wall_PieceBody3
+    3300024: Wall_PieceRoof4
+    3300026: Wall_Tower
+    3300028: Wall_TowerBody
+    3300030: Wall_TowerRoof
+    4300000: textureEditorIsolateSelectSet_Wall_Tower
+    4300002: textureEditorIsolateSelectSet_Wall_TowerBody
+    4300004: Wall_CornerPiece1
+    4300006: Wall_CornerPiece2
+    4300008: Wall_CornerPieceBody3
+    4300010: Wall_CornerPieceRoof4
+    4300012: Wall_Gate
+    4300014: Wall_GateBody1
+    4300016: Wall_GateRoof2
+    4300018: Wall_Piece1
+    4300020: Wall_Piece2
+    4300022: Wall_PieceBody3
+    4300024: Wall_PieceRoof4
+    4300026: Wall_Tower
+    4300028: Wall_TowerBody
+    4300030: Wall_TowerRoof
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

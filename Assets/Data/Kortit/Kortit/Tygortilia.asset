@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b5ee37e89a947408ff272303b3d623, type: 3}
+  m_Name: Tygortilia
+  m_EditorClassIdentifier: 
+  korttiTyyppi: {fileID: 11400000, guid: 8332705a498a0ab4eb6538ae5d1de079, type: 2}
+  Hinta: 9
+  tiedot:
+  - stringValue: Tygortilia
+    intValue: 0
+    sprite: {fileID: 0}
+    elementti: {fileID: 11400000, guid: 5c8ceb4314bb9bf47b0af3e6a7a6f25d, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: 0ab725dc0678da946907c5bdae993acf, type: 3}
+    elementti: {fileID: 11400000, guid: 6bbcc42431fb3e440bb694107818329b, type: 2}
+  - stringValue: Summon 4 Tygortilia to fight alongside your monster!
+    intValue: 0
+    sprite: {fileID: 0}
+    elementti: {fileID: 11400000, guid: 611588590cdb6214ebca64ea5014c44a, type: 2}
+  - stringValue: 
+    intValue: 19
+    sprite: {fileID: 0}
+    elementti: {fileID: 11400000, guid: 2d6a44ade2bbb484381899fd1dee3f5b, type: 2}
+  - stringValue: Minion
+    intValue: 0
+    sprite: {fileID: 21300000, guid: e44fa9b5cd1a00444803f79321869010, type: 3}
+    elementti: {fileID: 11400000, guid: d1d1db1c19fd7824594f33cabc00b428, type: 2}
+  - stringValue: 
+    intValue: 10
+    sprite: {fileID: 0}
+    elementti: {fileID: 11400000, guid: fbee9fd19bfdaf040ab4bbf7471d1fcb, type: 2}
+  AddHealth: 0
+  AddAttack: 0
+  AddDefence: 0
+  AddArmor: 0
+  AddImpact: 0
+  AddPierce: 0
+  AddPhas: 0
+  AddAbas: 0
+  AddTygo: 4
+  AddMinionHealth: 250
+  TakeHealth: 0
+  TakeAttack: 0
+  TakeDefence: 0
+  Death: 0

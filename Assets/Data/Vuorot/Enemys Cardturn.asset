@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 438bb2aa642325f4db79f50fc64931aa, type: 3}
+  m_Name: Enemys Cardturn
+  m_EditorClassIdentifier: 
+  player: {fileID: 11400000, guid: 9645994ed59e9a34da9d6db0847c1780, type: 2}
+  currentPhase: {fileID: 11400000, guid: 2127550372a72fd409c140189d633a24, type: 2}
+  phases:
+  - {fileID: 11400000, guid: a6035fc631577d9429391ebe6339ccdb, type: 2}
+  turnStartActions:
+  - {fileID: 11400000, guid: 342da3739edb0d14ab62f02a96b283f1, type: 2}
+  - {fileID: 11400000, guid: b891e6cb52ba18a4785be270db4e9745, type: 2}
+  - {fileID: 11400000, guid: f3ea03f393ad42d438f5ad9cb36ac472, type: 2}

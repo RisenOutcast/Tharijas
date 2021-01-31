@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenet/Splash Screen.unity
+    guid: 3149315aae356f14e9d6936ed2e80139
+  - enabled: 1
+    path: Assets/Scenet/Lobby.unity
+    guid: 7a5b0ea91a0a00d43b9a74ffa07bd428
+  - enabled: 1
+    path: Assets/Scenet/3dMainMenu.unity
+    guid: c4bb6cc21f9636f4b97a6ce347264dca
+  - enabled: 1
+    path: Assets/Scenet/Game NEW NEW.unity
+    guid: f85cdb2e72be56547910d6cc2b67963a
+  - enabled: 1
+    path: Assets/Scenet/Game_IlmanMP.unity
+    guid: 8aec4a51cc8d20841b7e88729a083ba2
+  - enabled: 1
+    path: Assets/Scenet/CardCollection.unity
+    guid: 8e45e8ceef938f542a2577f6e5502dd3
+  m_configObjects: {}

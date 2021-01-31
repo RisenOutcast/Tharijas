@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: c2495b3b7cab3b74abb9f19283e4cd52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Eyeballs
+    100002: //RootNode
+    100004: Grontto
+    100006: "H\xE4nt\xE4_1"
+    100008: "H\xE4nt\xE4_2"
+    100010: "H\xE4nt\xE4_3"
+    100012: "H\xE4nt\xE4_4"
+    100014: "H\xE4nt\xE4_5"
+    100016: "H\xE4nt\xE4_6"
+    100018: "H\xE4nt\xE4_7"
+    100020: "H\xE4nt\xE4_8"
+    100022: Leuka
+    100024: Leuka2
+    100026: "Nen\xE4"
+    100028: Niska
+    100030: O_Jalka_1
+    100032: O_Jalka_2
+    100034: O_Jalka_3
+    100036: O_Jalka_4
+    100038: "O_K\xE4si_1"
+    100040: "O_K\xE4si_2"
+    100042: "O_K\xE4si_3"
+    100044: "O_K\xE4si_4"
+    100046: O_Sormi1_1
+    100048: O_Sormi1_2
+    100050: O_Sormi1_3
+    100052: O_Sormi2_1
+    100054: O_Sormi2_2
+    100056: O_Sormi2_3
+    100058: O_Sormi3_1
+    100060: O_Sormi3_2
+    100062: O_Sormi3_3
+    100064: O_Sormi4_1
+    100066: O_Sormi4_2
+    100068: O_Sormi4_3
+    100070: "P\xE4\xE4"
+    100072: Retopolygy_LOD0
+    100074: "Selk\xE4_1"
+    100076: "Selk\xE4_2"
+    100078: "Selk\xE4_3"
+    100080: "Selk\xE4_4"
+    100082: transform1
+    100084: transform2
+    100086: V_Jalka_1
+    100088: V_Jalka_2
+    100090: V_Jalka_3
+    100092: V_Jalka_4
+    100094: "V_K\xE4si_1"
+    100096: "V_K\xE4si_2"
+    100098: "V_K\xE4si_3"
+    100100: "V_K\xE4si_3 1"
+    100102: V_Sormi1_1
+    100104: V_Sormi1_2
+    100106: V_Sormi1_3
+    100108: V_Sormi2_1
+    100110: V_Sormi2_2
+    100112: V_Sormi2_3
+    100114: V_Sormi3_1
+    100116: V_Sormi3_2
+    100118: V_Sormi3_3
+    100120: V_Sormi4_1
+    100122: V_Sormi4_2
+    100124: V_Sormi4_3
+    400000: Eyeballs
+    400002: //RootNode
+    400004: Grontto
+    400006: "H\xE4nt\xE4_1"
+    400008: "H\xE4nt\xE4_2"
+    400010: "H\xE4nt\xE4_3"
+    400012: "H\xE4nt\xE4_4"
+    400014: "H\xE4nt\xE4_5"
+    400016: "H\xE4nt\xE4_6"
+    400018: "H\xE4nt\xE4_7"
+    400020: "H\xE4nt\xE4_8"
+    400022: Leuka
+    400024: Leuka2
+    400026: "Nen\xE4"
+    400028: Niska
+    400030: O_Jalka_1
+    400032: O_Jalka_2
+    400034: O_Jalka_3
+    400036: O_Jalka_4
+    400038: "O_K\xE4si_1"
+    400040: "O_K\xE4si_2"
+    400042: "O_K\xE4si_3"
+    400044: "O_K\xE4si_4"
+    400046: O_Sormi1_1
+    400048: O_Sormi1_2
+    400050: O_Sormi1_3
+    400052: O_Sormi2_1
+    400054: O_Sormi2_2
+    400056: O_Sormi2_3
+    400058: O_Sormi3_1
+    400060: O_Sormi3_2
+    400062: O_Sormi3_3
+    400064: O_Sormi4_1
+    400066: O_Sormi4_2
+    400068: O_Sormi4_3
+    400070: "P\xE4\xE4"
+    400072: Retopolygy_LOD0
+    400074: "Selk\xE4_1"
+    400076: "Selk\xE4_2"
+    400078: "Selk\xE4_3"
+    400080: "Selk\xE4_4"
+    400082: transform1
+    400084: transform2
+    400086: V_Jalka_1
+    400088: V_Jalka_2
+    400090: V_Jalka_3
+    400092: V_Jalka_4
+    400094: "V_K\xE4si_1"
+    400096: "V_K\xE4si_2"
+    400098: "V_K\xE4si_3"
+    400100: "V_K\xE4si_3 1"
+    400102: V_Sormi1_1
+    400104: V_Sormi1_2
+    400106: V_Sormi1_3
+    400108: V_Sormi2_1
+    400110: V_Sormi2_2
+    400112: V_Sormi2_3
+    400114: V_Sormi3_1
+    400116: V_Sormi3_2
+    400118: V_Sormi3_3
+    400120: V_Sormi4_1
+    400122: V_Sormi4_2
+    400124: V_Sormi4_3
+    2100000: lambert1
+    2100002: lambert4
+    4300000: Grontto
+    9500000: //RootNode
+    13700000: Grontto
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

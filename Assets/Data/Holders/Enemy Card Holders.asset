@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90da15d7c3f8ffe4ea69dd22e3b5b21f, type: 3}
+  m_Name: Enemy Card Holders
+  m_EditorClassIdentifier: 
+  "k\xE4siGridi": {fileID: 11400000, guid: 6ed558c1e6f07354d8bd9d2d7358b56a, type: 2}
+  "p\xF6yt\xE4Gridi": {fileID: 11400000, guid: 0169b8a1f5400e048947d51f0bd9d618, type: 2}
+  rahaGridi: {fileID: 11400000, guid: fef1a8e3d35669046813e20d7103b6f8, type: 2}
+  minioniGridi: {fileID: 11400000, guid: 4e23d67d55861804d9f5da613a802127, type: 2}

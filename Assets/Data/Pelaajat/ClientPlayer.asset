@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7691abc661920b4da3f95d82e1acfed, type: 3}
+  m_Name: ClientPlayer
+  m_EditorClassIdentifier: 
+  username: Player
+  playerColor: {r: 0.10436773, g: 0.29411766, b: 1, a: 1}
+  Grontto: 0
+  Angira: 1
+  startingDeck: []
+  coinsPerTurn: 10
+  goldDroppedThisTurn: 73
+  Kulta: 10
+  isHumanPlayer: 0
+  AmountCardsLeft: 25
+  "k\xE4silogiikka": {fileID: 11400000, guid: 0d41288df7572bb4094637219e293eb0, type: 2}
+  "p\xF6yt\xE4logiikka": {fileID: 11400000, guid: 264eebfe8350944468561c76afd2adb4,
+    type: 2}
+  hasActiveMinions: 0
+  PhasAmount: 0
+  AbasAmount: 0
+  TygoAmount: 0
+  Minion1Health: 0
+  Minion2Health: 0
+  Minion3Health: 0
+  Minion4Health: 0
+  ResetCardTurn: 0
+  TakingDamage: 0
+  MonsterName: Grontto
+  MonsterHealth: 4600
+  MonsterAttack: 745
+  MonsterDefence: 950
+  MonsterArmor: 320
+  MonsterImpact: 250
+  MonsterPierce: 150
+  MonsterBleed: 0
+  MonsterMaxHealth: 4600

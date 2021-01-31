@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 438bb2aa642325f4db79f50fc64931aa, type: 3}
+  m_Name: Enemys Battleturn
+  m_EditorClassIdentifier: 
+  player: {fileID: 11400000, guid: 9645994ed59e9a34da9d6db0847c1780, type: 2}
+  currentPhase: {fileID: 11400000, guid: 2127550372a72fd409c140189d633a24, type: 2}
+  phases:
+  - {fileID: 11400000, guid: a1e03d33c412d754aacd708a6b72e2b8, type: 2}
+  turnStartActions:
+  - {fileID: 11400000, guid: 8cbd383d630f6a7428ae17fbd14449cf, type: 2}
+  - {fileID: 11400000, guid: 658b79c27553d684283ea732befc9dd0, type: 2}
