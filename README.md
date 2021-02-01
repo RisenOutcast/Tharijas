@@ -10,4 +10,4 @@ The project files still hold ![Photon](https://www.photonengine.com/) files, for
 Here is a teaser trailer released little before halfway of the development ![YouTube](https://youtu.be/VsAdoEgv6lw)
    
 ![Image of Grontto and Angira](/Assets/sdfghjkl.png )
-Art created by: ![Renegot](url)
+Art created by: ![Renegot](https://www.artstation.com/renegot)
